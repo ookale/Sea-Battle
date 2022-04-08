@@ -1,3 +1,3 @@
-# Your code goes here.
-# You can delete these comments, but do not change the name of this file
-# Write your code to expect a terminal of 80 characters wide and 24 rows high
+import random
+PLAYER_BOARD = [[]for _ in range(grid_size)]
+for i in range(0, grid_size)
